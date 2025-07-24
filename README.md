@@ -48,14 +48,20 @@ Experience the hosted build here → ****
 ---
 
 ## 🚀 Quick Start
+
 ```git clone https://github.com/your-user/torrent-share.git```
+
 ```cd torrent-share```
+
 ```npm install```
+
 ```npm run dev # open http://localhost:5173```
 
 
 Build for production:
+
 ```npm run build```
+
 ```npm run preview # local preview of dist/```
 
 
