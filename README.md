@@ -10,7 +10,7 @@ Minimal P2P File Sharing
 <p align="center">
   <img src="https://img.shields.io/badge/Tech-React%20%7C%20WebTorrent%20%7C%20Vite-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Design-Swiss%20Style-red?style=flat-square">
-  <img src="https://img.shields.io/github/license/your-user/torrent-share?style=flat-square">
+  <img src="https://img.shields.io/github/license/shornalore/torrent-share?style=flat-square">
 </p>
 
 ---
