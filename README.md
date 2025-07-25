@@ -67,6 +67,8 @@ Build for production:
 
 ## 📦 Usage
 
+```https://torrent-share.vercel.app/```
+
 1. **Share a file**  
    • Drag a file onto the **“Share Files”** drop-zone (or click to pick).  
    • Copy the generated magnet link and send it to a friend.
