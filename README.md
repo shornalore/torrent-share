@@ -29,7 +29,7 @@
 
 ## 🔗 Live Demo
 
-Experience the hosted build here → ****  
+Experience the hosted build here → **https://torrent-share.vercel.app/**  
 *(Open in two tabs or devices to watch the peer connection in action.)*
 
 ---
