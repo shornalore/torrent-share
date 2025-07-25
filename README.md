@@ -42,7 +42,6 @@ Experience the hosted build here → ****
 | P2P engine       | **WebTorrent**| Browser build, WebRTC transport        |
 | Bundler          | **Vite**      | Lightning-fast dev & prod builds       |
 | Styling          | Vanilla CSS   | CSS Grid + custom properties           |
-| Deployment       | GitHub Pages  | Static, zero-backend hosting           |
 
 ---
 
