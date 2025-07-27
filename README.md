@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 |  | |
 |---|---|
@@ -27,14 +27,14 @@
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 Experience the hosted build here → **https://torrent-share.vercel.app/**  
 *(Open in two tabs or devices to watch the peer connection in action.)*
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer            | Library / Tool | Notes                                  |
 |------------------|---------------|----------------------------------------|
@@ -45,7 +45,7 @@ Experience the hosted build here → **https://torrent-share.vercel.app/**
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```git clone https://github.com/your-user/torrent-share.git```
 
@@ -65,7 +65,7 @@ Build for production:
 
 ---
 
-## 📦 Usage
+## Usage
 
 ```https://torrent-share.vercel.app/```
 
@@ -79,18 +79,7 @@ Build for production:
 
 ---
 
-## 📐 Swiss Design Guidelines
-
-| Principle               | Implementation in Torrent-Share |
-|-------------------------|---------------------------------|
-| Grid-based layout       | CSS Grid with asymmetric balance |
-| Typography              | Helvetica / Inter for legibility |
-| Color palette           | `#FFFFFF #F8F8F8 #333333` + accent `#BA3C3C` |
-| Whitespace & hierarchy  | Generous spacing; form follows function |
-
----
-
-## ⚠️ Browser Support
+## Browser Support
 
 WebTorrent requires native **WebRTC**. Supported on recent versions of:
 
@@ -101,7 +90,7 @@ WebTorrent requires native **WebRTC**. Supported on recent versions of:
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 - [ ] Dark-mode CSS vars  
 - [ ] Selective file prioritization  
@@ -110,7 +99,7 @@ WebTorrent requires native **WebRTC**. Supported on recent versions of:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests and issues are welcome!  
 Please run `npm run lint` before submitting any PR.
@@ -122,7 +111,7 @@ Please run `npm run lint` before submitting any PR.
 
 ---
 
-## 📄 License
+## License
 
 **MIT** © 2025 shornalore
 
